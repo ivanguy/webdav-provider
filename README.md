@@ -41,3 +41,4 @@ To shut the test environment down:
 ```sh
 docker compose --project-directory tests down -v
 ```
+github build it please
